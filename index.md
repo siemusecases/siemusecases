@@ -8,7 +8,7 @@ This will always be a work in progress so any queries, comments  or suggestions 
 
 ## Use Cases 
 
-Deprecated
+Does this work?
 {: .label .label-red }
 
 MITRE's Cyber Analytics Repository and D3FEND project <br />
