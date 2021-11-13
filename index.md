@@ -6,7 +6,11 @@ Things not directly to do with use cases but which may be useful to the sort of 
 
 This will always be a work in progress so any queries, comments  or suggestions gratefully received: [website@siemusecases.com](mailto:website@siemusecases.com)
 
-## Use Cases
+## Use Cases 
+
+Deprecated
+{: .label .label-red }
+
 MITRE's Cyber Analytics Repository and D3FEND project <br />
 [https://car.mitre.org/analytics/](https://car.mitre.org/analytics/) and [https://d3fend.mitre.org/](https://d3fend.mitre.org/)
 
